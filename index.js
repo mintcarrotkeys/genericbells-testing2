@@ -1,4 +1,4 @@
-const redirect = encodeURIComponent('genericbells-testing2.pages.dev');
+const redirect = encodeURIComponent('https://genericbells-testing2.pages.dev');
 const appId = "genericbellstestingonly_1641706298";
 
 document.getElementById('version').textContent = "v0.2.9";
